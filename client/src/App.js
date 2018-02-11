@@ -5,7 +5,7 @@ import Users from "./users/Users";
 
 class App extends React.Component {
   homepage = () => {
-    return <h1> Homepage </h1>;
+    return <h1> Raindrops, drop top, i need a drink </h1>;
   };
 
   render() {
